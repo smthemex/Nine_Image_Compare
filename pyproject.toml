@@ -1,0 +1,15 @@
+[project]
+name = "nine_image_compare"
+description = "Compare one to nine images when use ComfyUI"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/smthemex/Nine_Image_Compare"
+#  Used by Comfy Registry https://registry.comfy.org
+
+[tool.comfy]
+PublisherId = "smthemex"
+DisplayName = "Nine_Image_Compare"
+Icon = ""
+includes = []
